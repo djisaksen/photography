@@ -6,7 +6,7 @@ export default function Navigation() {
     <nav className={styles.nav}>
       <div className={styles.container}>
         <Link href="/" className={styles.logo}>
-          Photography
+          djisaksen
         </Link>
         <div className={styles.links}>
           <Link href="/" className={styles.link}>
